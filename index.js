@@ -1,1 +1,3 @@
-console.log("Hello World!");
+function authenticate() {
+    // auth refactor logic here
+}
